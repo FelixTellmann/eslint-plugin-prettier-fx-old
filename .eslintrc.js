@@ -6,7 +6,7 @@ module.exports = {
     'not-an-aardvark/node',
     'plugin:node/recommended',
     'plugin:eslint-plugin/recommended',
-    'prettier'
+    'prettier-fx'
   ],
   env: { mocha: true },
   root: true,
